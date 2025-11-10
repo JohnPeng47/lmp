@@ -1,0 +1,11 @@
+browser-use
+instructor
+jinja2
+langchain-anthropic
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-together
+langchain-xai
+opik
+pydantic
